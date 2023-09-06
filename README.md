@@ -10,7 +10,7 @@ Copyright (c) Some Corporation
 
 All rights reserved.
 
-Tadabot is released under the [MIT License ↗]([https://github.com/your-username/tadabot/blob/main/LICENSE](https://github.com/vatsious/tadabot-website/blob/main/LICENSE)).
+Tadabot is released under the [MIT License ↗](https://github.com/vatsious/tadabot-website/blob/main/LICENSE).
 
 ## Contact
 
