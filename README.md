@@ -6,7 +6,7 @@ Tadabot is a highly advanced and user-friendly Discord bot designed specifically
 
 ## License
 
-Copyright (c) Some Corporation
+Copyright (c) TadaBot
 
 All rights reserved.
 
