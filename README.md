@@ -1,6 +1,6 @@
 # Tadabot - Discord Giveaway Bot Website
 
-<img src="https://cdn.discordapp.com/attachments/922939216109916170/1116365392550563920/yourkakva.png" alt="Tadabot Logo" width="50" height="50">
+<img src="https://cdn.discordapp.com/attachments/922939216109916170/1116365392550563920/yourkakva.png" alt="Tadabot Logo" width="200" height="200">
 
 Tadabot is a highly advanced and user-friendly Discord bot designed specifically for managing and enhancing giveaways in your Discord server. It provides a seamless experience for both server administrators and members participating in giveaways.
 
